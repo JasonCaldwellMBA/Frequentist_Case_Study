@@ -1,7 +1,7 @@
 # Frequentist_Case_Study
-The Pythonic implementation of the concepts underlying frequentist inference and applying them to a real-world scenario. 
+The Pythonic implementation of the concepts underlying frequentist inference and applying them to a real-world scenario. Frequentist inference is the process of deriving conclusions about an underlying distribution via the observation of data.
 
-Case study demonstrates the following concepts:
+Case study demonstrates the following statistical concepts:
 - The z-statistic
 - The t-statistic
 - The Central Limit Theorem
